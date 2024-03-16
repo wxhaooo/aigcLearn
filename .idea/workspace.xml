@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb1f252e-9a45-4d7a-9377-dd0ba2a2371e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoints/2024-03-16-20_40_40.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/2024-03-16-20_40_40/events.out.tfevents.1710592840.DESKTOP-NPK64N8.3520.24" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VAE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aigc.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/aigc.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpoints/2024-03-16-11_51_39.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/2024-03-16-11_50_28/events.out.tfevents.1710561028.DESKTOP-NPK64N8.3520.17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/2024-03-16-11_51_39/events.out.tfevents.1710561099.DESKTOP-NPK64N8.3520.18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/2024-03-16-20_40_40/events.out.tfevents.1710592840.DESKTOP-NPK64N8.3520.24" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +84,7 @@
       <workItem from="1710464415221" duration="2443000" />
       <workItem from="1710466892084" duration="334000" />
       <workItem from="1710507361353" duration="1051000" />
-      <workItem from="1710509275454" duration="19081000" />
+      <workItem from="1710509275454" duration="24989000" />
     </task>
     <servers />
   </component>
